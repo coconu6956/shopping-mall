@@ -1,3 +1,6 @@
-const App = () => <div>앱입니다.</div>
-
+const App = () => {
+  return (
+    <></>
+  )   
+}
 export default App
